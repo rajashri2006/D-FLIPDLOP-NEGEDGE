@@ -44,7 +44,7 @@ If a synchronous or asynchronous reset is present, the output is reset to 0 (or 
 
 
 **PROGRAM**
-DEVELOPED BY;:Rajashri I , Register Number :24900207
+DEVELOPED BY :Rajashri I , Register Number :24900207
 
 ![DE ex8 code](https://github.com/user-attachments/assets/709464c3-22a6-4f94-b58e-fbcceefd1a38)
 
